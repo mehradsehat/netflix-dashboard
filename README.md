@@ -40,26 +40,26 @@ Make sure the `netflix_titles.csv` file is located in the root directory of the 
 
 ## Installation
 
-# 1. Clone the repository
+## 1. Clone the repository
 git clone https://github.com/mehradsehat/netflix-dashboard.git
 cd netflix-dashboard
 
-# 2. (Optional) Create and activate a virtual environment
-# Windows
+## 2. (Optional) Create and activate a virtual environment
+## Windows
 python -m venv venv
 venv\Scripts\activate
 
-# macOS/Linux
+## macOS/Linux
 python3 -m venv venv
 source venv/bin/activate
 
-# 3. Install the required dependencies
+## 3. Install the required dependencies
 pip install -r requirements.txt
 
-# 4. Make sure the dataset is present in the root directory
-# File needed: netflix_titles.csv
+## 4. Make sure the dataset is present in the root directory
+File needed: netflix_titles.csv
 
-# 5. Run the app
+## 5. Run the app
 python netflix_dashboard.py
 
 # 6. Open in browser
