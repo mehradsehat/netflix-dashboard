@@ -62,8 +62,8 @@ File needed: netflix_titles.csv
 ## 5. Run the app
 python netflix_dashboard.py
 
-# 6. Open in browser
-# Visit http://127.0.0.1:8050 in your browser
+## 6. Open in browser
+Visit http://127.0.0.1:8050 in your browser
 
 
 ![Netflix Dashboard Screenshot](https://raw.githubusercontent.com/mehradsehat/netflix-dashboard/cc5da3b777062ecd3a7df8d090df2d4a238dc2f0/images/dashboard_screenshot.png.png)
