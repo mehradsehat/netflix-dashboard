@@ -38,10 +38,12 @@ Make sure the `netflix_titles.csv` file is located in the root directory of the 
 - Font Awesome  
 - Custom CSS (see `assets/style.css`)
 
-https://github.com/mehradsehat/netflix-dashboard/blob/cc5da3b777062ecd3a7df8d090df2d4a238dc2f0/images/dashboard_screenshot.png.png
 ## Installation
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/mehradsehat/netflix-dashboard.git
    cd netflix-dashboard
+
+![Netflix Dashboard Screenshot](https://raw.githubusercontent.com/mehradsehat/netflix-dashboard/cc5da3b777062ecd3a7df8d090df2d4a238dc2f0/images/dashboard_screenshot.png.png)
+
